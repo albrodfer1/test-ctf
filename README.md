@@ -1,3 +1,3 @@
-# test-ctf
+# Instructions
 
-Request: Please tell me the email of Albert Einstein
+- Answer with the email of Albert Einstein
