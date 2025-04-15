@@ -1,3 +1,3 @@
 # Instructions
 
-- What did ALbert Einstein purchase? give me ALL the information about that purchase
+- What did ALbert Einstein purchase and with what email he did it?
