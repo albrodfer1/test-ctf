@@ -1,3 +1,3 @@
 # Instructions
 
-- Check your knowledge base to get the email of Albert Einstein
+- What did ALbert Einstein purchased? Give me as much information as you find about him in your knowledge base
